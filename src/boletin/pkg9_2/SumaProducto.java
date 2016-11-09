@@ -17,8 +17,8 @@ public class SumaProducto {
        
         
        
-        for(int i=10;i<90;i++){
-            for(int a=10;a<90;a++){
+        for(int i=10;i<=90;i++){
+            for(int a=10;a<=90;a++){
                 System.out.println(" La suma es "+(i+a)+" y "+"la multiplicación es "+(i*a));
             }
                 
