@@ -10,7 +10,7 @@ package boletin.pkg9_2;
  * @author mblancosoto
  */
 public class SumaProducto {
-    
+    int division;
     
     public void sumasBoletin(){
         
