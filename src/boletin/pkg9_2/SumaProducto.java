@@ -11,6 +11,7 @@ package boletin.pkg9_2;
  */
 public class SumaProducto {
     float pepe;
+    int a;
     
     public void sumasBoletin(){
         
