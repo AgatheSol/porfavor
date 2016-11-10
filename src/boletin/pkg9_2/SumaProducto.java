@@ -11,7 +11,7 @@ package boletin.pkg9_2;
  */
 public class SumaProducto {
     int division;
-    
+    int webo;
     public void sumasBoletin(){
         
        
