@@ -12,6 +12,7 @@ package boletin.pkg9_2;
 public class SumaProducto {
     int division;
     int webo;
+    double can;
     public void sumasBoletin(){
         
        
